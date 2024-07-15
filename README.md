@@ -24,4 +24,5 @@ Press C to clear the current input.
 Press = to calculate the result.
 
 Screenshots
+
 ![image](https://github.com/user-attachments/assets/d001a4d8-01ba-404e-811a-330a8b3f7f07)
